@@ -1,3 +1,5 @@
 # ArewaDS-Fellowship
 This is assignment 1
-my name is Alhaji Sesay
+My name is Alhaji Sesay
+Arewa Data Science fellow cohort 3.0
+
